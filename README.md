@@ -25,6 +25,5 @@ Here are some ideas to get you started:
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-  ![Snake animation](https://github.com/aleretamero/aleretamero/blob/main/.github/workflows/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/aleretamero/aleretamero/blob/main/.github/workflows/main.yml)
 </div>
-
