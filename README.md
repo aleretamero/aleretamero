@@ -11,4 +11,5 @@
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-![snake gif](https://github.com/aleretamero/aleretamero/blob/output/github-contribution-grid-snake.svg)
+<!--![snake gif](https://github.com/aleretamero/aleretamero/blob/output/github-contribution-grid-snake.svg)-->
+[![Snake Game](https://github.com/aleretamero/aleretamero/actions/workflows/snake-game.yml/badge.svg)](https://github.com/aleretamero/aleretamero/actions/workflows/snake-game.yml)
