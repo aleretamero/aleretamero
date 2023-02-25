@@ -1,4 +1,7 @@
 ## Hello, world! eu sou Alexandre, futuro dev Full Stack!
+### README em construção...
+
+<hr>
 
 <div align="center" style="display: inlineblock;"><br>
 <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=aleretamero&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
