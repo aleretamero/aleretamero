@@ -24,8 +24,6 @@
 
 ##
 
-<div align="center">
-<img align="center" alt="Snake game" height="auto" width="auto" src="https://github.com/aleretamero/aleretamero/blob/output/github-contribution-grid-snake.svg">
-</div>
-
-<!--![snake gif](https://github.com/aleretamero/aleretamero/blob/output/github-contribution-grid-snake.svg)-->
+<!-- <div align="center">
+  <img align="center" alt="Snake game" height="auto" width="auto" src="https://github.com/aleretamero/aleretamero/blob/output/github-contribution-grid-snake.svg">
+</div> -->
