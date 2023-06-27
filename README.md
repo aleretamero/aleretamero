@@ -34,5 +34,5 @@
     <br/>
 <div style="display: flex;justify-content: space-between;">
     <a href="https://github.com/aleretamero">
-    <img   src="https://github-readme-stats.vercel.app/api/wakatime/?username=aleretamero&layout=compact&theme=prussian&custom_title=Most%20Used%20Languages&langs_count=7"/>
+    <img   src="https://github-readme-stats.vercel.app/api/wakatime/?username=aleretamero&layout=compact&theme=prussian&custom_title=Most%20Used%20Languages&langs_count=5"/>
 </div>
