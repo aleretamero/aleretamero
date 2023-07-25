@@ -1,6 +1,5 @@
 #### Olá me chamo Alexandre
 
-- Tenho 30 anos.
 - Atualmente estou estudando Análise e Desenvolvimento de Sistemas.
 - Meu objetivo é me tornar um desenvolvedor full stack.
 
