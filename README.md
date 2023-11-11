@@ -1,8 +1,8 @@
 ## Olá me chamo Alexandre
 
-- Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
-- Trabalho como desenvolvedor Full-Stack.
-- Focado no momento em C# / .NET
+- Trabalho como desenvolvedor Back-End C# / .Net
+- Atualmente estou cursando Análise e Desenvolvimento de Sistemas
+- TypeScript & C# ❤
 
 # Contato
 
