@@ -1,6 +1,7 @@
 ## Olá me chamo Alexandre
 
-- Trabalho como desenvolvedor Back-End C# / .Net
+- Trabalho como desenvolvedor Full-Stack com foco em NestJs e React
+- Possuo expêriencia como desenvolvedor Back-End C# / .Net
 - Atualmente estou cursando Análise e Desenvolvimento de Sistemas
 - TypeScript & C# ❤
 
