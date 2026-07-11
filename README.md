@@ -1,115 +1,90 @@
-## 👋 Hello, I'm Alexandre
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-header-dark-1280x320.png">
+  <img alt="Alexandre Retamero — Software Engineer | Backend & Architecture" src="./assets/github-header-light-1280x320.png" width="100%">
+</picture>
 
-🚀 I'm a Full Stack Developer passionate about building robust and scalable applications using **NestJS**, **React**, and **Python**. I thrive in cloud environments, especially **AWS**, and love applying clean architecture and DevOps practices to deliver reliable, maintainable software.
+<p align="center">
+  <a href="https://www.linkedin.com/in/alexandreretamero/"><img alt="LinkedIn" src="./assets/btn-linkedin.png" height="42"></a>
+  &nbsp;
+  <a href="mailto:contato@aleretamero.com.br"><img alt="Email: contato@aleretamero.com.br" src="./assets/btn-email.png" height="42"></a>
+</p>
 
----
+<p align="center">▲ ── ◯ ── ▲</p>
 
-## 📬 Let's Connect
+### About me
 
-- 🌐 [Portfolio](https://dev.aleretamero.com.br/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/alexandreretamero)
-- 📧 [Email](mailto:alexandreretamero@gmail.com)
+I'm a Software Engineer focused on backend development, software architecture, and distributed systems.
 
-## 📊 Status
-<!--
-[![Total time coded since May 11 2023](https://wakatime.com/badge/user/68589745-02a7-4d9e-b420-7571d2ac6af5.svg)](https://wakatime.com/@68589745-02a7-4d9e-b420-7571d2ac6af5)
+I build and evolve production systems primarily with Node.js, TypeScript, and NestJS, with additional professional experience using Python. I work across business-critical domains such as authentication, cashback, payments, notifications, KYC, betting, and asynchronous processing.
 
-![Total time coded since May 11 2023](https://github-readme-stats.vercel.app/api/wakatime/?username=aleretamero&layout=compact&theme=prussian&custom_title=Most%20Used%20Languages&langs_count=6)
--->
+My work combines hands-on development with technical leadership: structuring ambiguous problems, documenting decisions, improving architecture, and helping teams build systems that are secure, observable, and easier to evolve.
 
-<table>
-  <tr>
-    <td>
-      <img src="https://wakatime.com/badge/user/68589745-02a7-4d9e-b420-7571d2ac6af5.svg" />
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aleretamero&layout=compact&theme=prussian&langs_count=6" />
-    </td>
-  </tr>
-</table>
+<p align="center">▲ ── ◯ ── ▲</p>
 
-## 🔭 Currently Working On
-- 🧱 Event-driven microservices using **NestJS**, **RabbitMQ**, and **PostgreSQL**
-- ☁️ Automating infrastructure with **AWS CDK**, **Docker**, and **Kubernetes (EKS)**
+### Core expertise
 
----
-<!--
-### 🧑‍💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=python&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
--->
+**Backend**<br>
+![TypeScript](https://img.shields.io/badge/-TypeScript-1E3A5F?style=flat-square&logoColor=1E3A5F)
+![Node.js](https://img.shields.io/badge/-Node.js-1E3A5F?style=flat-square&logoColor=1E3A5F)
+![NestJS](https://img.shields.io/badge/-NestJS-1E3A5F?style=flat-square&logoColor=1E3A5F)
+![Python](https://img.shields.io/badge/-Python-1E3A5F?style=flat-square&logoColor=1E3A5F)
 
-### 🖥️ Back-end & Front-end
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=python&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![NestJs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NextJs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Dotnet](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+**Data**<br>
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1E3A5F?style=flat-square&logoColor=1E3A5F)
+![Redis](https://img.shields.io/badge/-Redis-1E3A5F?style=flat-square&logoColor=1E3A5F)
+![Prisma](https://img.shields.io/badge/-Prisma-1E3A5F?style=flat-square&logoColor=1E3A5F)
+![MongoDB](https://img.shields.io/badge/-MongoDB-1E3A5F?style=flat-square&logoColor=1E3A5F)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-1E3A5F?style=flat-square&logoColor=1E3A5F)
 
-### 🗄️ Databases
-![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logo=Redis&logoColor=white)
-![SqlServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
-<!--
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803.svg?style=for-the-badge&logo=TypeORM&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-F04D35.svg?style=for-the-badge&logo=Mongoose&logoColor=white)
--->
+**Messaging**<br>
+![SQS](https://img.shields.io/badge/-SQS-1E3A5F?style=flat-square&logoColor=1E3A5F)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-1E3A5F?style=flat-square&logoColor=1E3A5F)
 
-### 🚧 Infrastructure & DevOps
-![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+**Cloud & infrastructure**<br>
+![AWS](https://img.shields.io/badge/-AWS-1E3A5F?style=flat-square&logoColor=1E3A5F)
+![Docker](https://img.shields.io/badge/-Docker-1E3A5F?style=flat-square&logoColor=1E3A5F)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-1E3A5F?style=flat-square&logoColor=1E3A5F)
 
-### 🧰 Tools & Others
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![SocketIo](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
+**Quality & observability**<br>
+![Jest](https://img.shields.io/badge/-Jest-1E3A5F?style=flat-square&logoColor=1E3A5F)
+![Testcontainers](https://img.shields.io/badge/-Testcontainers-1E3A5F?style=flat-square&logoColor=1E3A5F)
+![Vitest](https://img.shields.io/badge/-Vitest-1E3A5F?style=flat-square&logoColor=1E3A5F)
+![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-1E3A5F?style=flat-square&logoColor=1E3A5F)
+![Prometheus](https://img.shields.io/badge/-Prometheus-1E3A5F?style=flat-square&logoColor=1E3A5F)
 
-<!--
-![Expo](https://img.shields.io/badge/Expo-000020.svg?style=for-the-badge&logo=Expo&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
--->
----
+**Additional experience**<br>
+![C#](https://img.shields.io/badge/-C%23-1E3A5F?style=flat-square&logoColor=1E3A5F)
+![React](https://img.shields.io/badge/-React-1E3A5F?style=flat-square&logoColor=1E3A5F)
+![Next.js](https://img.shields.io/badge/-Next.js-1E3A5F?style=flat-square&logoColor=1E3A5F)
 
-> Full Stack Developer with strong experience in NestJS, React, Python, Docker, AWS and scalable architecture.
-<!--
-- Improving observability using OpenTelemetry.
--->
+**Applied architecture practices**<br>
+My experience includes applying and contributing to Clean Architecture, DDD, CQRS, and Design Patterns when the domain and system complexity justify them.
 
-<!--
-![NodeJs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
- -->
+<p align="center">▲ ── ◯ ── ▲</p>
 
-<!--
-![Astro](https://img.shields.io/badge/Astro-BC52EE.svg?style=for-the-badge&logo=Astro&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
- -->
- 
-<!-- ## Ambiente
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white) -->
+### What I care about
 
-<!--
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E.svg?style=for-the-badge&logo=Prettier&logoColor=black)
-![Eslint](https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=ESLint&logoColor=white)
- -->
+- Clear boundaries between domain, application, and infrastructure
+- Pragmatic architecture that supports product evolution
+- Reliable asynchronous flows, retries, and idempotency
+- Security, traceability, and operational visibility
+- Technical decisions documented with context and trade-offs
+- Codebases that teams can understand and maintain
+
+<p align="center">▲ ── ◯ ── ▲</p>
+
+### Current direction
+
+I'm currently strengthening my public portfolio with backend case studies and projects that better represent my experience in architecture, messaging, observability, and cloud infrastructure.
+
+New repositories will be published selectively. Each highlighted project should include tests, execution instructions, architecture decisions, and explicit trade-offs instead of being only a technology showcase.
+
+<p align="center">▲ ── ◯ ── ▲</p>
+
+### Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/alexandreretamero/"><img alt="LinkedIn" src="./assets/btn-linkedin.png" height="42"></a>
+  &nbsp;
+  <a href="mailto:contato@aleretamero.com.br"><img alt="Email: contato@aleretamero.com.br" src="./assets/btn-email.png" height="42"></a>
+</p>
